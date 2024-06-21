@@ -99,6 +99,7 @@ Introducing...
 You can import images, either from the web or from a local directory - this one is from the web and it is massive! 
 
 
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -639,7 +640,21 @@ rpivotTable(data6,rows=c("org_code"), cols=c("type"), vals=c("admissions"),width
 ```
 
 
-# Thats all folks
+# So what's next?
 
-Please feel free to hack and ~~steal~~ share best practice from this report.  
+* Please feel free to hack and ~~steal~~ share best practice from this report. This QR code links to this html file (https://lynhuk.github.io/presentations/R_demo.html): 
+![QR code](R_demo_QR.png)
 
+and you can find the code that created it here: (https://github.com/LynHUK/presentations)
+
+
+* [Join the NHS-R Community](https://nhsrcommunity.com/)
+* [Take some training](https://resources.nhsrcommunity.com/training.html)
+* [or sign up for a workshop](https://nhsrcommunity.com/events/)
+* The NHS-R community YouTube channel has a [Getting Started playlist.](https://youtube.com/playlist?list=PLXCrMzQaI6c1GC4P9zNw3N3dcfIUfvdEV&si=kAyzXCJTD8TX7Wzg)
+<br><br>
+
+#### Thank you for your time
+
+![](my_linkedin_qr_code.jpeg){width=200}
+<br><br>
