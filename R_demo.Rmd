@@ -639,7 +639,18 @@ rpivotTable(data6,rows=c("org_code"), cols=c("type"), vals=c("admissions"),width
 ```
 
 
-# Thats all folks
+# So what's next?
 
 Please feel free to hack and ~~steal~~ share best practice from this report.  
 
+This QR code links to this html file (https://lynhuk.github.io/presentations/R_demo.html): 
+![QR code](R_demo_QR.png)
+and you can find the code that created it here: (https://github.com/LynHUK/presentations)
+
+
+[Join the NHS-R Community](https://nhsrcommunity.com/)
+[Take some training](https://resources.nhsrcommunity.com/training.html)
+[or sign up for a workshop](https://nhsrcommunity.com/events/)
+The NHS-R community YouTube channel has a [Getting Started playlist.](https://youtube.com/playlist?list=PLXCrMzQaI6c1GC4P9zNw3N3dcfIUfvdEV&si=kAyzXCJTD8TX7Wzg)
+
+![LinkedIn QR code](my_linkedin_qr_code.jpeg)
